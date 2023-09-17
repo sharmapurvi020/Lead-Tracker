@@ -1,0 +1,55 @@
+.upper{
+  
+
+  display:  flex;
+  width: 100%;
+
+  flex-direction: row;
+  justify-content: center;
+  
+  color: #fff;
+  font-family: "Lato", Helvetica, sans-serif;
+ 
+}
+
+.upperfirst{
+  margin-left: 100px;
+  
+  padding-bottom: 20%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  color: white;
+  margin-top: 100px;
+  font-family: "Lato", Helvetica, sans-serif;
+}
+.hero{
+
+  font-size: 3rem;
+    font-weight: 900;
+    line-height: 3.75rem;
+    font-family: "PT Serif", Georgia, serif;
+    margin: 0 0 1rem 0;
+}
+
+
+.lead{
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2rem;
+  font-family: "Lato", Helvetica, sans-serif;
+  align-items: center;
+}
+
+
+.upperlast{
+    width: 100%;
+    margin-top: 60px;
+    float: left;
+    text-align: center;
+    color: #fff;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-weight:400;
+
+    margin-left:20px;
+}
